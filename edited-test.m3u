@@ -59,9 +59,9 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade ok (翡翠台)
 http://520574.xyz/dl/iptv.php?id=1
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 ok
-http://520574.xyz/dl/iptv.php?id=12
+http://ws.matchupstream.tuboshu.com/live/784cbae6ea43c52a9ffd09fed6c9466c.flv
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl ok (明珠台)
-http://520574.xyz/dl/iptv.php?id=13
+https://ws.matchupstream.tuboshu.com/live/80517308db11c533d7de4dafe580b2d7.flv
 
 
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="HK",TVB News Channel (無綫新聞台)
