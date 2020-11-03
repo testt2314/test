@@ -62,6 +62,13 @@ http://520574.xyz/dl/iptv.php?id=1
 http://ws.matchupstream.tuboshu.com/live/784cbae6ea43c52a9ffd09fed6c9466c.flv
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl ok (明珠台)
 http://ws.matchupstream.tuboshu.com/live/80517308db11c533d7de4dafe580b2d7.flv
+
+#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 22
+http://520574.xyz/dl/iptv.php?id=12 
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl 22 (明珠台)
+http://520574.xyz/dl/iptv.php?id=13
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg" group-title="HK",HKS TV (明珠台)
 http://520574.xyz/dl/iptv.php?id=6
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="HK",TVB News Channel (無綫新聞台)
