@@ -59,15 +59,9 @@ https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade ok (翡翠台)
 http://520574.xyz/dl/iptv.php?id=1
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 ok
-http://ws.matchupstream.tuboshu.com/live/784cbae6ea43c52a9ffd09fed6c9466c.flv
+http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl ok (明珠台)
-http://ws.matchupstream.tuboshu.com/live/80517308db11c533d7de4dafe580b2d7.flv
-
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 22
-http://520574.xyz/dl/iptv.php?id=12 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl 22 (明珠台)
-http://520574.xyz/dl/iptv.php?id=13
-
+http://61.238.6.49:8001/bysid/2.mpeg
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg" group-title="HK",HKS TV (明珠台)
 http://520574.xyz/dl/iptv.php?id=6
@@ -80,13 +74,10 @@ http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/fhzxt.jpg" group-title="HK",Phoenix Info News HK 凤凰卫视资讯台
 http://520574.xyz/dl/iptv.php?id=3
 
-#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK",ViuTVsix test
-P2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
-
 #EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK",ViuTVsix
-https://cdn.hkdtmb.com/hls/96/index.m3u8
+http://61.238.6.49:8000/bysid/96
 #EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK",ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
+http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="HK",I-Cable Fmly Ent Channel (有線綜合娱乐)
 http://livetv.dnsfor.me/channel.7.m3u8
 #EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="HK",I-Cable News (有線新闻)
