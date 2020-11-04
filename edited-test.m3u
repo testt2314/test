@@ -772,55 +772,11 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_i
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="SEA",SCTV(印尼)
+#EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="SEA",SCTV(Indo)
 https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
-#EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="SEA",TVRI(印尼)
+#EXTINF:-1 tvg-id="TVR.ID" tvg-logo="https://static.epg.best/id/TVRI.id.png" group-title="SEA",TVRI(Indo)
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="SEA",ช่อง 7(泰国)
+#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="SEA",ช่อง 7(Thai)
 https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="SEA",Workpoint(泰国)
+#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="SEA",Workpoint(Thai)
 https://exodiver.github.io/IPTV/M3U8/Token/WPTV.m3u8
-#EXTINF:-1 tvg-id="KAP.PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/345px-Kapamilya_Channel.png" group-title="SEA",Kapamilya Channel
-https://iwantvsphls-lh.akamaihd.net/i/iwantspabscbnhd_1@388790/master.m3u8|X-Forwarded-For=45.134.224.4
-#EXTINF:-1 tvg-id="ANC.PH" tvg-logo="https://static.epg.best/ph/ANC.ph.png" group-title="SEA",ANC
-https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-Forwarded-For=45.134.224.4
-#EXTINF:-1 tvg-id="VT4.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv4-hd.png" group-title="SEA",VTV 4(越南)
-https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8|X-Forwarded-For=202.143.111.214
-#EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="SEA",VTV 6(越南)
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8|X-Forwarded-For=202.143.111.214
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/MRTV_new_logo.png" group-title="SEA",MRTV(缅甸)
-http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="SEA",MRTV-4(缅甸)
-https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-
-#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="European",TF1
-https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="RTL.DE" tvg-logo="http://static.epg.best/de/RTL.de.png" group-title="European",RTL
-http://5.135.92.133:52841/out/u/115_1.m3u8
-#EXTINF:-1 tvg-id="RA1.IT" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai1-hd.png" group-title="European",Rai 1
-http://5.135.92.133:52841/out/u/440_1.m3u8
-#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="European",Russia 1
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="European",BVN
-https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="AZ1.MX" tvg-logo="https://static.epg.best/mx/AztecaUno.mx.png" group-title="Latin America",Azteca Uno
-https://dai.google.com/linear/hls/event/asXufUKSSKisiLSMHR2BXA/master.m3u8|X-Forwarded-For=194.41.112.22
-#EXTINF:-1 tvg-id="AZ7.MX" tvg-logo="https://static.epg.best/mx/Azteca7.mx.png" group-title="Latin America",Azteca 7
-https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
-#EXTINF:-1 tvg-id="AN3.ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Latin America",Antena 3
-https://a3m-a3-live-dash.secure.footprint.net/live/nas_live/a3/dash/a3.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00ff29da4e0598b0de8a5b930b5c969d4997f9010
-#EXTINF:-1 tvg-id="CUA.ES" tvg-logo="https://static.epg.best/es/Cuatro.es.png" group-title="Latin America",Cuatro
-https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
-#EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="Latin America",LA 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
-#EXTINF:-1 tvg-id="LA2.ES" tvg-logo="https://static.epg.best/es/LA2.es.png" group-title="Latin America",LA 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-id="LA6.ES" tvg-logo="https://static.epg.best/es/LaSexta.es.png" group-title="Latin America",LA Sexta
-https://a3m-la6-live-dash.secure.footprint.net/live/nas_live/la6/dash/la6.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=0d5fd1778c0756d5749a2f6ca2c5b63f4984c67cb
-#EXTINF:-1 tvg-id="RCN.CO" tvg-logo="https://html.canalrcn.com/CanalRCN/react/home-v2/img/logo-canal-rcn-2019.png" group-title="Latin America",RCN
-https://rcnhd.cdn.net.co/live01/rcnhd_720p.m3u8
-#EXTINF:-1 tvg-id="TEL.ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Latin America",Telecinco
-https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8
-#EXTINF:-1 tvg-ID="TEL.AR" tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.04.01/images/logo-telefe.3874c0defd1c086d07474d5caed4df1f.png" group-title="Latin America",Telefe
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/index_1_av-p.m3u8
