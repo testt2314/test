@@ -57,7 +57,9 @@ http://livetv.dnsfor.me:80/channel.19.m3u8
 https://cdn.hkdtmb.com/hls/84/index.m3u8
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade ok (翡翠台)
-#http://520574.xyz/dl/iptv.php?id=1
+http://520574.xyz/dl/iptv.php?id=1
+
+#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 3 (翡翠台)
 http://61.238.6.49:8000/bysid/1
 
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 ok
