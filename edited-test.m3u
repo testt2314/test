@@ -96,10 +96,13 @@ http://61.238.6.49:8000/bysid/1
 http://61.238.6.49:8001/bysid/82
 
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)
+http://ye23.win/iptv/tm.php?id=XGMingZhu
+##EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)
 #https://cdn.hkdtmb.com/hls/84/index.m3u8
-
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl ok (明珠台)
 http://61.238.6.49:8001/bysid/2.mpeg
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg" group-title="HK",HKS TV (明珠台)
 http://520574.xyz/dl/iptv.php?id=6
