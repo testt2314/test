@@ -50,23 +50,19 @@ https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MY",TV3
 #https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
-#https://exodiver.github.io/IPTV/M3U8/Token/TV3.m3u8|Referer=https://www.dailymotion.com
-https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
+https://exodiver.github.io/IPTV/M3U8/Token/TV3.m3u8|Referer=https://www.dailymotion.com
 
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MY",NTV 7
 #https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
-#https://exodiver.github.io/IPTV/M3U8/Token/NTV7.m3u8
-https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8|Referer=https://www.dailymotion.com
+https://exodiver.github.io/IPTV/M3U8/Token/NTV7.m3u8
 
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MY",8TV
 #https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
-#https://exodiver.github.io/IPTV/M3U8/Token/8TV.m3u8
-https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8|Referer=https://www.dailymotion.com
+https://exodiver.github.io/IPTV/M3U8/Token/8TV.m3u8
 
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MY",TV9
 #https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
-#https://exodiver.github.io/IPTV/M3U8/Token/TV9.m3u
-https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8|Referer=https://www.dailymotion.com
+https://exodiver.github.io/IPTV/M3U8/Token/TV9.m3u
 
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MY",Astro Awani
 #https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
