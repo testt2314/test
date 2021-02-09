@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://en.wikipedia.org/wiki/Astro_AEC#/media/File:Astro_AEC_HD.jpg" group-title="Astro",AEC
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" group-title="Astro",AEC
 http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="Astro",Wah Lai Toi 华丽台
