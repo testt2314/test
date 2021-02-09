@@ -56,9 +56,6 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Astro",NatGeo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/200px-New_NatGeo_People_logo.svg.png" group-title="Astro",NatGeo People
-http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" group-title="Astro",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
