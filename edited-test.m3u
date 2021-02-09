@@ -56,22 +56,22 @@ http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Astro",NatGeo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/200px-New_NatGeo_People_logo.svg.png" group-title="Astro"Natgeo People
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/200px-New_NatGeo_People_logo.svg.png" group-title="Astro",Natgeo People
 http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" group-title="Astro",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Astro", Supersports 1
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Astro",Supersports 1
 http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="Astro", Supersports 2
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="Astro",Supersports 2
 http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="Astro", Supersports 3
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="Astro",Supersports 3
 http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="Astro", Supersports 4
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="Astro",Supersports 4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="SG",Channel 5
