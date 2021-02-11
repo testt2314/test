@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ACE.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" group-title="Astro",AEC
+#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" group-title="Astro",AEC
 http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WLT.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="Astro",Wah Lai Toi 华丽台
+#EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="Astro",Wah Lai Toi 华丽台
 http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HHD.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="Astro",Hua Hee Dai 欢喜台
@@ -24,7 +24,7 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 #EXTINF:-1 tvg-id="XTY.MY" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="Astro", Xiao Tai Yang 小太阳
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AOD.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",AOD HD
+#EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",Astro AOD HD 311
 http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CM.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" group-title="Astro",Celestial Movies 天映频道
@@ -38,7 +38,7 @@ http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/200px-HBO_Family_Asia_logo.svg.png" group-title="Astro",HBO Family
 http://93.190.139.34:8278/streams/d/Hbofamily/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Hbh.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png" group-title="Astro",HBO hits
+#EXTINF:-1 tvg-id="HBOH.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/HBOHits-ASIA.png/185px-HBOHits-ASIA.png" group-title="Astro",HBO hits
 http://93.190.139.34:8278/streams/d/Hbohits/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FXHD.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/151_144.png" group-title="Astro",FOX HD
@@ -157,9 +157,9 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MY",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="MY",Astro AEC
+##EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="MY",Astro AEC
 #http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
-http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+#http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade (翡翠台)
 #http://ye23.win/iptv/tm.php?id=XGFeiCui
