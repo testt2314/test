@@ -59,6 +59,18 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/200px-New_NatGeo_People_logo.svg.png" group-title="Astro",NatGeo People
 http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NG.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/12_144.png" group-title="Astro",NATIONAL GEOGRAPHIC
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39375
+
+#EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Astro",DISCOVERY
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39376
+
+#EXTINF:-1 tvg-id="HIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="Astro",HISTORY
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39379
+
+#EXTINF:-1 tvg-id="APT.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/40_144.png" group-title="Astro",ANIMAL PLANET
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39380
+
 #EXTINF:-1 tvg-id="AA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" group-title="Astro",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
@@ -73,6 +85,25 @@ http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SS4.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="Astro",Supersports 4
 http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FS1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="Astro",FOX SPORTS 1
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39455
+
+#EXTINF:-1 tvg-id="FS2.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png" group-title="Astro",FOX SPORTS 2
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39456
+
+#EXTINF:-1 tvg-id="FS3.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" group-title="Astro",FOX SPORTS 3
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39457
+
+#EXTINF:-1 tvg-id="BE1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Astro",beIN SPORTS 1
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
+
+#EXTINF:-1 tvg-id="BEM.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Astro",beIN SPORTS MAX
+http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459
+
+
+
+
 
 EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" group-title="Astro Backup",AEC
 http://youriptv.tv:8080/MALIZIA/Nicetry8888/39339
