@@ -47,19 +47,19 @@ http://93.190.139.34:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg" group-title="Astro",FOX MOVIE
 http://93.190.139.34:8278/streams/d/Foxmovie/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXN.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/220px-AXN_logo_%282015%29.svg.png" group-title="Astro",AXN
+#EXTINF:-1 tvg-id="AXN.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/320px-HGTV_US_Logo_2015.svg.png" group-title="Astro",AXN
 http://93.190.139.34:8278/streams/d/Axn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png" group-title="Astro",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="Astro",NatGeo Wild HD
+#EXTINF:-1 tvg-id="NGW.US" tvg-logo="https://www.seekpng.com/png/detail/82-828948_national-geographic-logo-transparent-wwwimgkidcom-nat-geo.png" group-title="Astro",NatGeo Wild HD
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/200px-New_NatGeo_People_logo.svg.png" group-title="Astro",NatGeo People
+#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://content.osn.com/logo/channel/cropped/NAH.png" group-title="Astro",NatGeo People
 http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NG.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/12_144.png" group-title="Astro",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="NG.MY" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Astro",NATIONAL GEOGRAPHIC
 http://youriptv.tv:8080/MALIZIA/Nicetry8888/39375
 
 #EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Astro",DISCOVERY
