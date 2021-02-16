@@ -101,11 +101,7 @@ http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
 #EXTINF:-1 tvg-id="BEM.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Astro",beIN SPORTS MAX
 http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459
 
-
-
-
-
-EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" group-title="Astro Backup",AEC
+#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" group-title="Astro Backup",AEC
 http://youriptv.tv:8080/MALIZIA/Nicetry8888/39339
 
 #EXTINF:-1 tvg-id="HHD.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="Astro Backup",Hua Hee Dai 欢喜台
