@@ -8,6 +8,26 @@
 	<display-name lang="en">Ch 8 (HD)</display-name>
 	<url>singteltv.com.sg</url>
 </channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="aHkit2021">
+<channel id="Cna.SG">
+	<display-name lang="en">Ch 5 (HD)</display-name>
+	<url>singteltv.com.sg</url>
+</channel>
+<channel id="ChU.SG">
+	<display-name lang="en">Ch 8 (HD)</display-name>
+	<url>singteltv.com.sg</url>
+</channel>
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="aHkit2021">
+<channel id="Cna.SG">
+	<display-name lang="en">Ch 5 (HD)</display-name>
+	<url>singteltv.com.sg</url>
+</channel>
+<channel id="ChU.SG">
+	<display-name lang="en">Ch 8 (HD)</display-name>
+	<url>singteltv.com.sg</url>
+</channel>
 <programme start="20210218000000 +0800" stop="20210218004800 +0800" channel="Cna.SG">
 	<title lang="en">Top Secret Swimming Holes (S2)</title>
 	<desc lang="en">From swimming with sharks to kitesurfing, these are the world's most top-secret swimming holes!</desc>
@@ -474,7 +494,7 @@
 </programme>
 <programme start="20210219155000 +0800" stop="20210219160000 +0800" channel="ChU.SG">
 	<title lang="en">Taste of Seoul</title>
-	<desc lang="en"><Taste of Seoul> contains a variety of tastes of Seoul andit will show the appearance of Seoul that they love.</desc>
+	<desc lang="en"> Taste of Seoul  contains a variety of tastes of Seoul andit will show the appearance of Seoul that they love.</desc>
 </programme>
 <programme start="20210219160000 +0800" stop="20210219173000 +0800" channel="ChU.SG">
 	<title lang="en">Music Bank</title>
