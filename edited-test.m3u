@@ -35,7 +35,7 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Astro",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Astro",HBO Family
+#EXTINF:-1 tvg-id="HBOF.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="Astro",HBO Family
 http://93.190.139.34:8278/streams/d/Hbofamily/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOH.MY" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="Astro",HBO hits
