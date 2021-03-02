@@ -25,7 +25,8 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",Astro AOD HD 311
-http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+http://198.16.106.58:8278/streams/d/AodHD/playlist.m3u8 
 
 #EXTINF:-1 tvg-id="CM.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" group-title="Astro",Celestial Movies 天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -88,19 +89,23 @@ http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
 http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FS1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="Astro",FOX SPORTS 1
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39455
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39455
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FS2.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png" group-title="Astro",FOX SPORTS 2
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39456
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39456
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FS3.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" group-title="Astro",FOX SPORTS 3
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39457
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39457
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="BE1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Astro",beIN SPORTS 1
 http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
 
 #EXTINF:-1 tvg-id="BEM.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Astro",beIN SPORTS MAX
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" group-title="Astro Backup",AEC
 http://youriptv.tv:8080/MALIZIA/Nicetry8888/39339
