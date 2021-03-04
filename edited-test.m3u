@@ -3,6 +3,7 @@
 http://198.16.106.58:8278/streams/d/Aec1511/playlist.m3u8
 #http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="Astro",Wah Lai Toi 华丽台
 http://198.16.106.58:8278/streams/d/Wlt/playlist.m3u8
 
@@ -62,16 +63,24 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NG.MY" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Astro",NATIONAL GEOGRAPHIC
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39375
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39375
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Astro",DISCOVERY
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39376
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39376
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="HIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="Astro",HISTORY
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39379
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39379
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#EXTINF:-1 tvg-id="HIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="Astro",HISTORY
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
 
 #EXTINF:-1 tvg-id="APT.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/40_144.png" group-title="Astro",ANIMAL PLANET
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39380
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39380
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="AA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" group-title="Astro",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
