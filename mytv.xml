@@ -4,6 +4,10 @@
 	<display-name lang="en">Ch 5 (HD)</display-name>
 	<url>mewatch.com.sg</url>
 </channel>
+<channel id="Ch8.SG">
+	<display-name lang="en">Ch 8 (HD)</display-name>
+	<url>mewatch.com.sg</url>
+</channel>
 <programme start="20210311160000 +0800" stop="20210311163000 +0800" channel="Ch5.SG">
 	<title lang="en">Kings Of The Wild S1 Finland - Arctic Circle</title>
 	<desc lang="en">123</desc>
@@ -27,5 +31,37 @@
 <programme start="20210311190000 +0800" stop="20210311200000 +0800" channel="Ch5.SG">
 	<title lang="en">Behind Bars S1 Kansas</title>
 	<desc lang="en">123</desc>
+</programme>
+<programme start="20210311140000 +0800" stop="20210311143000 +0800" channel="Ch8.SG">
+	<title lang="en">News Tonight - EP 343</title>
+	<desc lang="en">Daily evening updates on top local news and world news.</desc>
+</programme>
+<programme start="20210311143000 +0800" stop="20210311150000 +0800" channel="Ch8.SG">
+	<title lang="en">Focus - EP 40</title>
+	<desc lang="en">Focus provides timely reports and analyses on international news and current affairs from Singapore's perspective.</desc>
+</programme>
+<programme start="20210311150000 +0800" stop="20210311160000 +0800" channel="Ch8.SG">
+	<title lang="en">Love And Redemption - EP 1</title>
+	<desc lang="en">In a tournament hosted by ShaoYang Sect, Chu XuanJi and Yu SiFeng meets when he saves her from the pranks of Wu Tong who is a disciple of another fraction, beginning the start of their entwined fates. </desc>
+</programme>
+<programme start="20210311160000 +0800" stop="20210311170000 +0800" channel="Ch8.SG">
+	<title lang="en">The Vagrant - EP 5</title>
+	<desc lang="en"> R  A drama about Ah Bao, a young man who grew up in a violent environment and how he deals with life after his term in prison. At the age of 21, Ah Bao landed up in jail after his friend and girlfriend betrayed him during a robbery he took part in. While in jail, Ah Bao plotted his revenge against the people who betrayed him ...</desc>
+</programme>
+<programme start="20210311170000 +0800" stop="20210311180000 +0800" channel="Ch8.SG">
+	<title lang="en">Barter Trade - EP 4</title>
+	<desc lang="en">Programme is not available for live streaming.  R  If you have old and unwanted things piling up at home, don't throw them away. Our 'Garang guni'man, Mark Lee will exchange them for brand new ones. Find out more in this variety show.</desc>
+</programme>
+<programme start="20210311180000 +0800" stop="20210311190000 +0800" channel="Ch8.SG">
+	<title lang="en">Truly Yours - EP 9</title>
+	<desc lang="en"> R </desc>
+</programme>
+<programme start="20210311190000 +0800" stop="20210311200000 +0800" channel="Ch8.SG">
+	<title lang="en">Truly Yours - EP 10</title>
+	<desc lang="en"> R </desc>
+</programme>
+<programme start="20210311200000 +0800" stop="20210311210000 +0800" channel="Ch8.SG">
+	<title lang="en">Taste Of Life - EP 599</title>
+	<desc lang="en"> R  Chu-Tsai, Chao and his wife have five children. Devoted all his life into developing soy sauce products, Chu-Tsai very much hopes that one of his kids can follow his footsteps and take over his business, but he also respects their own passions and aspirations. Because of their father's invention dream, the Chao brother's lives are about to change.</desc>
 </programme>
 </tv>
