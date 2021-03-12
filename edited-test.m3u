@@ -66,7 +66,7 @@ http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
 #http://youriptv.tv:8080/MALIZIA/Nicetry8888/39375
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Astro",DISCOVERY
+#EXTINF:-1 tvg-id="DISCO.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Astro",DISCOVERY
 #http://youriptv.tv:8080/MALIZIA/Nicetry8888/39376
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
