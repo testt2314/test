@@ -3,7 +3,6 @@
 http://198.16.106.58:8278/streams/d/Aec1511/playlist.m3u8
 #http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="Astro",Wah Lai Toi 华丽台
 http://198.16.106.58:8278/streams/d/Wlt/playlist.m3u8
 
@@ -26,8 +25,8 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",Astro AOD HD 311
-#http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 http://198.16.106.58:8278/streams/d/AodHD/playlist.m3u8 
+#http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CM.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" group-title="Astro",Celestial Movies 天映频道
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
@@ -63,12 +62,12 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://93.190.139.34:8278/streams/d/Natgeopeople/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NG.MY" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Astro",NATIONAL GEOGRAPHIC
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39375
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39375
 
 #EXTINF:-1 tvg-id="DISCO.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/376_144.png" group-title="Astro",DISCOVERY
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39376
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39376
 
 #EXTINF:-1 tvg-id="HIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="Astro",HISTORY
 #http://youriptv.tv:8080/MALIZIA/Nicetry8888/39379
@@ -77,10 +76,9 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="Astro",HISTORY
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-
 #EXTINF:-1 tvg-id="APT.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/40_144.png" group-title="Astro",ANIMAL PLANET
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39380
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39380
 
 #EXTINF:-1 tvg-id="AA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" group-title="Astro",Arena
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
@@ -102,19 +100,19 @@ http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="FS2.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png" group-title="Astro",FOX SPORTS 2
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39456
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39456
 
 #EXTINF:-1 tvg-id="FS3.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" group-title="Astro",FOX SPORTS 3
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39457
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39457
 
 #EXTINF:-1 tvg-id="BE1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Astro",beIN SPORTS 1
 http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
 
 #EXTINF:-1 tvg-id="BEM.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Astro",beIN SPORTS MAX
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459
 
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" group-title="Astro Backup",AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
@@ -210,53 +208,53 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="MY",Berita RTM
-#https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+#https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-ID="RTS.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="MY",RTM Sports
+http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
 #https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 #https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
-http://50.7.161.82:8278/streams/d/Rtmsport/playlist.m3u8
+
 
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MY",OKEY
-#https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+#https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MY",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 #https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
 #https://exodiver.github.io/IPTV/M3U8/Token/TV3.m3u8|Referer=https://www.dailymotion.com
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
 
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MY",NTV 7
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
 #https://exodiver.github.io/IPTV/M3U8/Token/NTV7.m3u8
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+
 
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MY",8TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
 #https://exodiver.github.io/IPTV/M3U8/Token/8TV.m3u8
-http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MY",TV9
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
 #https://exodiver.github.io/IPTV/M3U8/Token/TV9.m3u
-http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MY",Astro Awani
+http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #https://fvtv.mywire.org/playlist/fa1sdnjufp-bg4c8c1dp3.m3u8
 #https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Ber.MY"  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="MY",Bernama
-#https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8|Referer=https://www.youtube.com
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+#https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MY",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
-##EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="MY",Astro AEC
-#http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
-#http://198.16.106.58:8278/streams/d/Aec1511/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade (翡翠台)
 #http://ye23.win/iptv/tm.php?id=XGFeiCui
@@ -266,22 +264,28 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #http://520574.xyz/dl/iptv.php?id=1
 ##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 2 (翡翠台)
 #http://ws.matchupstream.tuboshu.com/live/20201208h.flv
+
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 3 (翡翠台)
 http://61.238.6.49:8000/bysid/1
+
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 7(翡翠台)
 http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+
 ##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 8(翡翠台)
 #http://202.59.250.83/TV.php?id=390
+
 ##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 9(翡翠台)
 #http://202.59.250.83/TV.php?id=30
 
 
 ##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2     
 #http://livetv.dnsfor.me:80/channel.19.m3u8
+
 ##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 ok
 http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 4
 http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+
 ##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 5
 #http://202.59.250.83/TV.php?id=392
 
@@ -290,10 +294,13 @@ http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
 #http://ye23.win/iptv/tm.php?id=XGMingZhu
 ##EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)
 #https://cdn.hkdtmb.com/hls/84/index.m3u8
+
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl ok (無綫明珠台)
 http://61.238.6.49:8001/bysid/2.mpeg
+
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl 6(無綫明珠台)
 http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+
 ##EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl 7(無綫明珠台)
 #http://202.59.250.83/TV.php?id=391
 
