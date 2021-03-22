@@ -268,8 +268,8 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 3 (翡翠台)
 http://61.238.6.49:8000/bysid/1
 
-#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 7(翡翠台)
-http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 7(翡翠台)
+#http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 8(翡翠台)
 #http://202.59.250.83/TV.php?id=390
@@ -281,10 +281,10 @@ http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
 ##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2     
 #http://livetv.dnsfor.me:80/channel.19.m3u8
 
-##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 ok
+#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 ok
 http://61.238.6.49:8001/bysid/82
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 4
-http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 4
+#http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 5
 #http://202.59.250.83/TV.php?id=392
@@ -298,8 +298,8 @@ http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl ok (無綫明珠台)
 http://61.238.6.49:8001/bysid/2.mpeg
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl 6(無綫明珠台)
-http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
+##EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl 6(無綫明珠台)
+#http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl 7(無綫明珠台)
 #http://202.59.250.83/TV.php?id=391
