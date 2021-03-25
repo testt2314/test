@@ -9,7 +9,7 @@ http://198.16.106.58:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="HHD.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="Astro",Hua Hee Dai 欢喜台
 http://198.16.106.58:8278/streams/d/Huahee/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IQ.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/200px-IQiyi_logo.svg.png" group-title="Astro",iQIYI 爱奇艺
+#EXTINF:-1 tvg-id="IQI.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/200px-IQiyi_logo.svg.png" group-title="Astro",iQIYI 爱奇艺
 http://198.16.106.58:8278/streams/d/Qiyi1511/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QJ.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" group-title="Astro",Quan Jia 全佳
