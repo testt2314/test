@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" group-title="Astro",AEC
 http://198.16.106.58:8278/streams/d/Aec1511/playlist.m3u8
+https://nonton.site:8443/provision/pp/37352
 #http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="Astro",Wah Lai Toi 华丽台
@@ -8,6 +9,7 @@ http://198.16.106.58:8278/streams/d/Wlt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HHD.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="Astro",Hua Hee Dai 欢喜台
 http://198.16.106.58:8278/streams/d/Huahee/playlist.m3u8
+https://nonton.site:8443/provision/pp/37363
 
 #EXTINF:-1 tvg-id="IQI.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/200px-IQiyi_logo.svg.png" group-title="Astro",iQIYI 爱奇艺
 http://198.16.106.58:8278/streams/d/Qiyi1511/playlist.m3u8
@@ -23,9 +25,11 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XTY.MY" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="Astro", Xiao Tai Yang 小太阳
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+https://nonton.site:8443/provision/pp/37351
 
 #EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",Astro AOD HD 311
 http://198.16.106.58:8278/streams/d/AodHD/playlist.m3u8 
+https://nonton.site:8443/provision/pp/37357
 #http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CM.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" group-title="Astro",Celestial Movies 天映频道
@@ -33,6 +37,9 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CC.MY" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="Astro",Celestial Classic 天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+#EXTINF:-1,tvg-logo=https://i.postimg.cc/KjbJJdqW/Astro-Box-Office-Movies.png group-title=ASTRO, ASTRO BOX OFFICE
+http://iptvtree.net:8080/Line1051/f4fffd47/195647
 
 #EXTINF:-1 tvg-id="HBO.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Astro",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
