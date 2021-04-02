@@ -280,6 +280,7 @@ http://61.238.6.49:8000/bysid/1
 
 ##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 7(翡翠台)
 #http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
+http://113.255.161.76:9981/stream/channelid/1911170778
 
 ##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 8(翡翠台)
 #http://202.59.250.83/TV.php?id=390
@@ -288,8 +289,9 @@ http://61.238.6.49:8000/bysid/1
 #http://202.59.250.83/TV.php?id=30
 
 
-##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2     
+#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2     
 #http://livetv.dnsfor.me:80/channel.19.m3u8
+http://113.255.161.76:9981/stream/channelid/688589876
 
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 ok
 http://61.238.6.49:8001/bysid/82
@@ -299,11 +301,11 @@ http://61.238.6.49:8001/bysid/82
 ##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 5
 #http://202.59.250.83/TV.php?id=392
 
-
-##EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)
 #http://ye23.win/iptv/tm.php?id=XGMingZhu
 ##EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)
 #https://cdn.hkdtmb.com/hls/84/index.m3u8
+http://113.255.161.76:9981/stream/channelid/688589876
 
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl ok (無綫明珠台)
 http://61.238.6.49:8001/bysid/2.mpeg
@@ -327,8 +329,15 @@ http://520574.xyz/dl/iptv.php?id=3
 
 #EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK",ViuTVsix
 http://61.238.6.49:8000/bysid/96
+
+#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK",ViuTVsix 2
+http://113.255.161.76:9981/stream/channelid/1678030550
+
 #EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK",ViuTV
 http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK",ViuTV 2
+http://113.255.161.76:9981/stream/channelid/1273121849
+
 #EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="HK",I-Cable Fmly Ent Channel (有線綜合娱乐)
 http://livetv.dnsfor.me/channel.7.m3u8
 #EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="HK",I-Cable News (有線新闻)
@@ -348,10 +357,18 @@ http://teslagram.com/live/channel_630.m3u8
 http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hkatv.com/images/logo.png" group-title="HK",ATV Asia (亞洲電視台)
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="HK",RTHK (港台電視31)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="HK",RTHK (港台電視31 2)
+http://113.255.161.76:9981/stream/channelid/1467517977
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="HK",RTHK (港台電視32)
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="HK",RTHK (港台電視32 2)
+http://113.255.161.76:9981/stream/channelid/1002192968
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="HK",TDM (澳視澳門台)
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="HK",TDM MACAU (澳視MACAU)
