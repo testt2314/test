@@ -83,6 +83,8 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="HIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="Astro",HISTORY
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-id="HIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="Astro",HISTORY 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="APT.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/40_144.png" group-title="Astro",ANIMAL PLANET
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
@@ -165,17 +167,20 @@ http://youriptv.tv:8080/MALIZIA/Nicetry8888/39399
 http://youriptv.tv:8080/MALIZIA/Nicetry8888/39450
 
 #EXTINF:-1 tvg-id="SS1.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Astro Backup",Supersports 1
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39451
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39451
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="SS2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="Astro Backup",Supersports 2
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39452
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39452
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="SS3.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="Astro Backup",Supersports 3
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39453
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39453
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="SS4.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="Astro Backup",Supersports 4
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39454
-
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39454
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/MediaCorp_Channel5.jpg" group-title="SG",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
