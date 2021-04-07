@@ -39,9 +39,6 @@ http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-1 tvg-id="CC.MY" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="Astro",Celestial Classic 天映经典
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 
-#EXTINF:-1,tvg-logo=https://i.postimg.cc/KjbJJdqW/Astro-Box-Office-Movies.png group-title=ASTRO, ASTRO BOX OFFICE
-http://iptvtree.net:8080/Line1051/f4fffd47/195647
-
 #EXTINF:-1 tvg-id="HBO.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Astro",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
@@ -83,6 +80,7 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 #EXTINF:-1 tvg-id="HIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="Astro",HISTORY
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
 #EXTINF:-1 tvg-id="HIS.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/112_144.png" group-title="Astro",HISTORY 2
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
 
