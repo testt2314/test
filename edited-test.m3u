@@ -20,13 +20,13 @@ http://50.7.161.82:8278/streams/d/Qiyi1511/playlist.m3u8
 #EXTINF:-1 tvg-id="QJ.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" group-title="Astro",Quan Jia 全佳
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SX.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" group-title="Astro",Shuang Xing 双星
+#EXTINF:-1 tvg-id="SX.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a7/Astro_SHX_HD.jpeg" group-title="Astro",Shuang Xing 双星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XH.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="Astro",TVB Xing He 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XTY.MY" tvg-logo="http://astrokentico.s3.amazonaws.com/xuan/channels/325.png" group-title="Astro", Xiao Tai Yang 小太阳
+#EXTINF:-1 tvg-id="XTY.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" group-title="Astro", Xiao Tai Yang 小太阳
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 https://nonton.site:8443/provision/pp/37351
 
