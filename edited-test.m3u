@@ -28,7 +28,7 @@ http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 #EXTINF:-1 tvg-id="XTY.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" group-title="Astro", Xiao Tai Yang 小太阳
 http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-https://nonton.site:8443/provision/pp/37351
+#https://nonton.site:8443/provision/pp/37351
 
 #EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",Astro AOD HD 311
 http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_882&key=84797b799ae18d1b
