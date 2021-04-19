@@ -8,6 +8,9 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b
 #http://198.16.106.58:8278/streams/d/Wlt/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="Astro",Wah Lai Toi 华丽台 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b
+
 #EXTINF:-1 tvg-id="HHD.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="Astro",Hua Hee Dai 欢喜台
 #http://198.16.106.58:8278/streams/d/Huahee/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
@@ -95,16 +98,20 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8811&key=84797b799ae18d1b
 http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SS1.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Astro",Supersports 1
-http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+#http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="SS2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="Astro",Supersports 2
-http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
+#http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="SS3.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="Astro",Supersports 3
-http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
+#http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="SS4.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="Astro",Supersports 4
-http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
+#http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="FS1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="Astro",FOX SPORTS 1
 #http://youriptv.tv:8080/MALIZIA/Nicetry8888/39455
