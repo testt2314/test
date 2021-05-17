@@ -4,11 +4,14 @@
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b
 #http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="Astro",Wah Lai Toi 华丽台
+#EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Wah Lai Toi 华丽台
 #http://198.16.106.58:8278/streams/d/Wlt/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/94/Astro_%E8%8F%AF%E9%BA%97%E5%8F%B0.jpg" group-title="Astro",Wah Lai Toi 华丽台 2
+#EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Wah Lai Toi 华丽台 2
+http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Jade HK 华丽台
 #http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b
 http://190.2.133.47:8278/streams/d/Jade/playlist.m3u8
 
@@ -35,9 +38,8 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 #https://nonton.site:8443/provision/pp/37351
 
 #EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",Astro AOD HD 311
-http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_882&key=84797b799ae18d1b
+http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 #http://198.16.106.58:8278/streams/d/AodHD/playlist.m3u8 
-#https://nonton.site:8443/provision/pp/37357
 #http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CM.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" group-title="Astro",Celestial Movies 天映频道
