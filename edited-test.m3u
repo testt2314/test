@@ -348,6 +348,9 @@ http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/fhzxt.jpg" group-title="HK",Phoenix Info News HK 凤凰卫视资讯台
 http://520574.xyz/dl/iptv.php?id=3
 
+香港有线新闻
+http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+
 #EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK",ViuTVsix
 http://61.238.6.49:8000/bysid/96
 
@@ -363,8 +366,13 @@ http://113.255.161.76:9981/stream/channelid/1273121849
 http://livetv.dnsfor.me/channel.7.m3u8
 #EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="HK",I-Cable News (有線新闻)
 http://livetv.dnsfor.me:80/channel.5.m3u8
+
 #EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="HK",I-Cable News 2(有線新闻)
 http://202.59.250.83/TV.php?id=394
+
+#EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="HK",I-Cable News 3(有線新闻)
+http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+
 #EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="HK",I-CABLE Finance News (有線財經資訊)
 http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="HK",I-CABLE Finance News 2(有線財經資訊)
