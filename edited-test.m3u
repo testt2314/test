@@ -23,6 +23,9 @@ https://nonton.site:8443/provision/pp/37356
 #http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b
 http://190.2.133.47:8278/streams/d/Jade/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Jade HK 华丽台 2
+http://hls.globaliptv.ml/tvbjade.php 
+
 #EXTINF:-1 tvg-id="HHD.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="Astro",Hua Hee Dai 欢喜台
 #http://198.16.106.58:8278/streams/d/Huahee/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
