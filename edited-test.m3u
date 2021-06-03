@@ -6,9 +6,9 @@
 #http://mantul.biz.id:8888/gibran/gibran/4997
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6701
 
-#EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Wah Lai Toi 华丽台
+##EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Wah Lai Toi 华丽台
 #http://198.16.106.58:8278/streams/d/Wlt/playlist.m3u8
-http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+#http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Wah Lai Toi 华丽台 2
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
@@ -20,8 +20,8 @@ http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #https://nonton.site:8443/provision/pp/37356
 https://nonton.site:8443/live/provision/pp/37356.ts
 
-#EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Wah Lai Toi 华丽台 4
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8836
+##EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Wah Lai Toi 华丽台 5
+#http://iptv.tvmalaysia.cc:80/penang172/penang172/8836
 
 #EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Jade HK 华丽台
 #http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b
