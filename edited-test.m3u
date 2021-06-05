@@ -192,69 +192,6 @@ http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #http://youriptv.tv:8080/MALIZIA/Nicetry8888/39459
 
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg" group-title="Astro Backup",AEC
-http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
-
-#EXTINF:-1 tvg-id="HHD.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="Astro Backup",Hua Hee Dai 欢喜台
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39340
-
-#EXTINF:-1 tvg-id="QJ.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/Astro%E5%85%A8%E4%BD%B3HD.png" group-title="Astro Backup",Quan Jia 全佳
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39337
-
-#EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro Backup",Astro AOD HD 311
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39344
-
-#EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro Backup",Astro AOD HD 2
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39351
-
-#EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro Backup",Astro AOD HD 3
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39352
-
-#EXTINF:-1 tvg-id="CM.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/CMC_English_full_color_black_text_2.jpg/200px-CMC_English_full_color_black_text_2.jpg" group-title="Astro Backup",Celestial Movies 天映频道
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39342
-
-#EXTINF:-1 tvg-id="CC.MY" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png" group-title="Astro Backup",Celestial Classic 天映经典
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39348
-
-#EXTINF:-1 tvg-id="HBO.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="Astro Backup",HBO HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39360
-
-#EXTINF:-1 tvg-id="FXHD.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/320px-FOX_HD.svg.png" group-title="Astro Backup",FOX HD
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39413
-
-#EXTINF:-1 tvg-id="FXM.Asia" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1545266399_fox-movies-sd.jpg" group-title="Astro Backup",FOX MOVIE
-http://youiptv.tv:8080/MALIZIA/Nicetry8888/39428
-
-#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/320px-HGTV_US_Logo_2015.svg.png" group-title="Astro Backup",HGTV
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39402
-
-#EXTINF:-1 tvg-id="NGP.US" tvg-logo="https://content.osn.com/logo/channel/cropped/NAH.png" group-title="Astro Backup",NatGeo People
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39399
-
-#EXTINF:-1 tvg-id="AA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" group-title="Astro Backup",Arena
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39450
-http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SS1.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Astro Backup",Supersports 1
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39451
-#http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
-http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SS2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="Astro Backup",Supersports 2
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39452
-#http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
-http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SS3.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="Astro Backup",Supersports 3
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39453
-#http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
-http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SS4.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="Astro Backup",Supersports 4
-#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39454
-#http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
-http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/MediaCorp_Channel5.jpg" group-title="SG",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
