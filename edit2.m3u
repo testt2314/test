@@ -71,6 +71,22 @@ http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AA.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/801_300.png" group-title="Astro",Arena-1
+http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SS1.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Astro",Supersports 1-1
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SS2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="Astro",Supersports 2-2
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SS3.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="Astro",Supersports 3-3
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SS4.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="Astro",Supersports 4-4
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="FS1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="Astro",FOX SPORTS 1
 #http://youriptv.tv:8080/MALIZIA/Nicetry8888/39455
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -115,9 +131,9 @@ https://cdn.hkdtmb.com/hls/81
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 3 (翡翠台)
 http://61.238.6.49:8000/bysid/1
 
-#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 7(翡翠台)
+##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 7(翡翠台)
 #http://93.190.139.36:8278/streams/d/jade_twn/playlist.m3u8
-http://113.255.161.76:9981/stream/channelid/1911170778
+#http://113.255.161.76:9981/stream/channelid/1911170778
 
 ##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 8(翡翠台)
 #http://202.59.250.83/TV.php?id=390
