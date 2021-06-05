@@ -29,8 +29,8 @@ http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 #http://198.16.106.58:8278/streams/d/AodHD/playlist.m3u8 
 #http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",Astro AOD HD 311
-http://mantul.biz.id:8888/gibran/gibran/5004
+##EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",Astro AOD HD 311
+#http://mantul.biz.id:8888/gibran/gibran/5004
 
 #EXTINF:-1 tvg-id="AOD311.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" group-title="Astro",Astro AOD HD 352
 #http://mantul.biz.id:8888/gibran/gibran/5005
@@ -53,19 +53,23 @@ http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SS1.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" group-title="Astro",Supersports 1
 #http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+#http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SS2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" group-title="Astro",Supersports 2
 #http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
+#http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SS3.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/833_300.png" group-title="Astro",Supersports 3
 #http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
+#http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SS4.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/814_300.png" group-title="Astro",Supersports 4
 #http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
-http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+#http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FS1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="Astro",FOX SPORTS 1
 #http://youriptv.tv:8080/MALIZIA/Nicetry8888/39455
@@ -79,8 +83,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #http://youriptv.tv:8080/MALIZIA/Nicetry8888/39457
 
-#EXTINF:-1 tvg-id="BE1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Astro",beIN SPORTS 1
-http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
+##EXTINF:-1 tvg-id="BE1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Astro",beIN SPORTS 1
+#http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
 
 #EXTINF:-1 tvg-id="BEM.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/313_144.png" group-title="Astro",beIN SPORTS MAX
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
