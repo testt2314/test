@@ -290,7 +290,7 @@ http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 #http://ws.matchupstream.tuboshu.com/live/20201208h.flv
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade CND(翡翠台)
-https://cdn.hkdtmb.com/hls/81
+https://cdn.hkdtmb.com/hls/817
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 3 (翡翠台)
 http://61.238.6.49:8000/bysid/1
@@ -353,14 +353,20 @@ http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK",ViuTVsix
 http://61.238.6.49:8000/bysid/96
-
-#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK",ViuTVsix 2
+#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK",ViuTVsix-2
 http://113.255.161.76:9981/stream/channelid/1678030550
+#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="HK",ViuTVsix-3
+http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
 
-#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK",ViuTV
+#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK",ViuTV 99
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK",ViuTV 2
+
+#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK",ViuTV 99-1
+http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+
+#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="HK",ViuTV 99-2
 http://113.255.161.76:9981/stream/channelid/1273121849
+
 
 #EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="HK",I-Cable Fmly Ent Channel (有線綜合娱乐)
 http://livetv.dnsfor.me/channel.7.m3u8
