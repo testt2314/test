@@ -279,10 +279,11 @@ http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
 
-##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade (翡翠台)
+#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade (翡翠台)
 #http://ye23.win/iptv/tm.php?id=XGFeiCui
-##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade (翡翠台)
 #http://livetv.dnsfor.me:80/channel.18.m3u8
+http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
+
 ##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade ok (翡翠台)
 #http://520574.xyz/dl/iptv.php?id=1
 ##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade 2 (翡翠台)
@@ -307,16 +308,15 @@ http://113.255.161.76:9981/stream/channelid/1911170778
 
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2     
 #http://livetv.dnsfor.me:80/channel.19.m3u8
-http://113.255.161.76:9981/stream/channelid/688589876
+#http://113.255.161.76:9981/stream/channelid/688589876
+#http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
+http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
 
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 ok
 http://61.238.6.49:8001/bysid/82
 
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 CKD
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-
-##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 4
-#http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
 
 ##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 5
 #http://202.59.250.83/TV.php?id=392
@@ -335,6 +335,7 @@ http://61.238.6.49:8001/bysid/2.mpeg
 
 ##EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl 7(無綫明珠台)
 #http://202.59.250.83/TV.php?id=391
+http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvchinese.net/uploads/tv/hkstv.jpg" group-title="HK",HKS TV (明珠台)
 http://520574.xyz/dl/iptv.php?id=6
