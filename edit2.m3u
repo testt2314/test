@@ -134,7 +134,8 @@ https://cdn.hkdtmb.com/hls/81
 http://61.238.6.49:8000/bysid/1
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade (翡翠台) -2
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2     
 #http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
@@ -149,8 +150,8 @@ https://cdn.hkdtmb.com/hls/82/index.m3u8
 http://61.238.6.49:8001/bysid/82
 
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 -2
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
-
+#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
 
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)
 #http://ye23.win/iptv/tm.php?id=XGMingZhu
