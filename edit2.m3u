@@ -108,6 +108,23 @@ http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
 #EXTINF:-1 tvg-id="FS3.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" group-title="Astro",FOX SPORTS 3-1
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
+#EXTINF:-1 tvg-id="FS1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/141_144.png" group-title="Astro",FOX SPORTS 1-2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NzU4ZmIwOWItODI4MS0zNTk4LTgxNjEtNTdiMzQ2M2JmMjk5
+http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
+
+#EXTINF:-1 tvg-id="FS2.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/290_144.png" group-title="Astro",FOX SPORTS 2-2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NzU4ZmIwOWItODI4MS0zNTk4LTgxNjEtNTdiMzQ2M2JmMjk5
+http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd
+
+#EXTINF:-1 tvg-id="FS3.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/291_144.png" group-title="Astro",FOX SPORTS 3-2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NzU4ZmIwOWItODI4MS0zNTk4LTgxNjEtNTdiMzQ2M2JmMjk5
+http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd
+
+
+
 
 ##EXTINF:-1 tvg-id="BE1.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Astro",beIN SPORTS 1
 #http://youriptv.tv:8080/MALIZIA/Nicetry8888/39458
@@ -126,39 +143,41 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #http://202.59.250.83/TV.php?id=390
 #http://202.59.250.83/TV.php?id=30
 
-#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade CND(翡翠台)
-https://cdn.hkdtmb.com/hls/81
+##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade CND(翡翠台)
+#https://cdn.hkdtmb.com/hls/81
 
-#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade (翡翠台)
-http://61.238.6.49:8000/bysid/1
+##EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade (翡翠台)
+#http://61.238.6.49:8000/bysid/1
 
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="HK",TVB Jade (翡翠台) -2
-http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2     
+##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2     
 #http://93.190.139.36:8278/streams/d/j2_twn/playlist.m3u8
 #http://202.59.250.83/TV.php?id=392
 #http://livetv.dnsfor.me:80/channel.19.m3u8
-http://113.255.161.76:9981/stream/channelid/688589876
+#http://113.255.161.76:9981/stream/channelid/688589876
 
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 CKD
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 CKD
+#https://cdn.hkdtmb.com/hls/82/index.m3u8
 
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2
-http://61.238.6.49:8001/bysid/82
+##EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2
+#http://61.238.6.49:8001/bysid/82
 
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="HK",TVB J2 -2
-http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)
+##EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)
 #http://ye23.win/iptv/tm.php?id=XGMingZhu
 #https://cdn.hkdtmb.com/hls/84/index.m3u8
 #http://93.190.139.36:8278/streams/d/pearl_twn/playlist.m3u8
 #http://202.59.250.83/TV.php?id=391
-http://113.255.161.76:9981/stream/channelid/688589876
+#http://113.255.161.76:9981/stream/channelid/688589876
 
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)-2
-http://61.238.6.49:8001/bysid/2.mpeg
+##EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)-2
+#http://61.238.6.49:8001/bysid/2.mpeg
 
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="HK",TVB Pearl (無綫明珠台)-3
 http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
