@@ -9,6 +9,7 @@ http://iptv.tvmalaysia.cc:80/penang172/penang172/6701
 ##EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Wah Lai Toi 华丽台
 #http://198.16.106.58:8278/streams/d/Wlt/playlist.m3u8
 #http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jade.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/203_144.png" group-title="Astro",Wah Lai Toi 华丽台 2
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
