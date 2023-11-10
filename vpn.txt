@@ -1,11 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2639
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww30360\viewh10200\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-
-\f0\fs28 \cf0 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-3366\
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.81:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.81-3366\
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.195:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.195-0623\
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@212.38.189.174:8090#%F0%9F%87%AC%F0%9F%87%A7%20GB_919\
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@51.77.53.200:2376#%F0%9F%87%B5%F0%9F%87%B1PL_889\
